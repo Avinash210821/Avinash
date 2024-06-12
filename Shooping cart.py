@@ -61,8 +61,8 @@ class ShoppingCart:
 name=input("enter the name")
 address=input("enter the address")
 number=int(input("Enter the number"))
-Preethi=ShoppingCart(name,address,number)
-Preethi.main()
+avinash=ShoppingCart(name,address,number)
+avinash.main()
 
 
 # In[ ]:
